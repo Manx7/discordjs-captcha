@@ -1,0 +1,16 @@
+{
+  "name": "Manx7_Captcha",
+  "version": "1.0.1",
+  "description": "A pre-built Discord.JS bot to interface with the Manx7 Captcha API.",
+  "main": "captcha.js",
+  "scripts": {
+    "start": "npm install . && node ."
+  },
+  "keywords": [],
+  "author": "MistakingManx#5555",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "=12.5.3",
+    "node-fetch": "^2.6.1"
+  }
+}
