@@ -1,3 +1,6 @@
+# WARNING: This project has been abandoned.
+> It is not functional.
+
 # Captcha for Discord! (discord.js)
 A pre-built Discord bot running on [discord.js](https://discord.js.org) using the [Manx7 Captcha API](https://captcha.manx7.net).
 
